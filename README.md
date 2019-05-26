@@ -1,29 +1,22 @@
-# conway-game-of-life
+# Conway's Game of Life
 
-## Project setup
+An implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with Vue.js.
+
+[Live demo](https://conway-game.surge.sh/).
+
+## Dev
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compile
+
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+## License
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+MIT
